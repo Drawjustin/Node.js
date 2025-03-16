@@ -13,6 +13,10 @@ Core language features and modern ES6+ syntax
 
 ## 📚 Reference
 
+- 도서명: **[Node.js 교과서](https://product.kyobobook.co.kr/detail/S000200437346)**  
+- 플랫폼: **교보문고**
+- 강사: **조현영**
+
 - 강의명: **[자바스크립트 기초 강좌 : 100분 완성](https://www.youtube.com/watch?v=KF6t61yuPCY)**  
 - 플랫폼: **Youtube**
 - 강사: **코딩앙마**
