@@ -1,10 +1,10 @@
-# JavaScript
-JavaScript
+# Node.js
+Node.js
 💡 Introduction
-Justin의 **JavaScript - 정리**입니다.  
-기본적인 자바스크립트의 문법과 규칙에 대해서 설명합니다.
+Justin의 **Node.js - 정리**입니다.  
+기본적인 Node.js의 문법과 규칙에 대해서 설명합니다.
 
-This project serves as a comprehensive guide to JavaScript, covering fundamental syntax and advanced features. It is designed as an interactive learning platform where you can explore:
+This project serves as a comprehensive guide to Node.js, covering fundamental syntax and advanced features. It is designed as an interactive learning platform where you can explore:
 
 Core language features and modern ES6+ syntax
 
