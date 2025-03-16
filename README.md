@@ -20,7 +20,7 @@ Core language features and modern ES6+ syntax
 - 강의명: **[자바스크립트 기초 강좌 : 100분 완성](https://www.youtube.com/watch?v=KF6t61yuPCY)**  
 - 플랫폼: **Youtube**
 - 강사: **코딩앙마**
-- 
+
 - 강의명: **[자바스크립트 중급 강좌 : 140분 완성](https://www.youtube.com/watch?v=4_WLS9Lj6n4)**  
 - 플랫폼: **Youtube**
 - 강사: **코딩앙마**
